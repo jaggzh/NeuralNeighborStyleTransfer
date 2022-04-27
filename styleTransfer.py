@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Core Imports
 import time
 import argparse

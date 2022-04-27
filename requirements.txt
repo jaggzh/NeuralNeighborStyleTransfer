@@ -1,0 +1,7 @@
+imageio==2.8.0
+numpy==1.18.1
+Pillow==9.1.0
+pkg_resources==0.0.0
+torch==1.7.1
+torchvision==0.8.2
+typing_extensions==4.2.0
